@@ -1,12 +1,14 @@
                 
 ## 🎓 About Me
 
-I'm a Computer Science Engineering undergrad from SJCE. I am an aspiring Machine Learning engineer and also find interest in API Development. I try looking at concepts from a naive math based perspective to allow me get a better understanding.
+I'm a Computer Science Engineering undergrad from SJCE, Mysuru. I am an aspiring Software Engineer currently honing my skills in Web Development. 
+
+Field of Interest 🎯 : Cloud, DevOps, (Exploring many more...)
 
 
 ## 🛠️ Tech Stack
 
-- **Languages:** Java, SQL
+- **Languages:** C, Java, C#, SQL
 - **Web Development:** HTML, CSS, JavaScript, MERN Stack
 - **Databases:** MySQL, MongoDB
 - **Tools:** Git, GitHub
