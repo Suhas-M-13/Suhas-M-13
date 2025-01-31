@@ -3,7 +3,7 @@
 
 I'm a Computer Science Engineering undergrad from SJCE, Mysuru. I am an aspiring Software Engineer currently honing my skills in Web Development. 
 
-Field of Interest 🎯 : Cloud, DevOps, (Exploring many more...)
+Field of Interest 🎯 : Web, Cloud, DevOps, (Exploring many more...)
 
 
 ## 🛠️ Tech Stack
